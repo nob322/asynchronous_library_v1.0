@@ -2,7 +2,7 @@
 Library created by me in 2023 to facilitate asynchronous requests to and from Php written by David Sanchez - nob32_2@hotmail.com
 
 
-Ej:  operationSR('123','respuesta1','recibo.php','POST','todo ok form 1',0,'Fallo el asincronismo');
+Ej:  operationSR('123','respuesta1','recibo.php','POST','todo ok form 1',0,'Falló el asincronismo');
 
 To use the library, you must first include it in the project using for example something like <script src="asinchronous_library_v1.0.js"></script> (it always depends on the path where you have the asynchronous_library_v1.0.js file).
 The second step is to put the following parameters in a <script></script>... tag.
