@@ -1,5 +1,5 @@
                                                  asynchronous_library_v1.0
-Library created by me in 2023 to facilitate asynchronous requests to and from Php
+Library created by me in 2023 to facilitate asynchronous requests to and from Php written by David Sanchez - nob32_2@hotmail.com
 
 
 Ej:  operationSR('123','respuesta1','recibo.php','POST','todo ok form 1',0,'Fallo el asincronismo');
